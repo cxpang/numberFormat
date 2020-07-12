@@ -12,7 +12,7 @@
     },
     "autoload": {
         "psr-4": {
-            "number\\": "src/"
+            "numberApplication\\": "src/"
         }
     },
     "license": "MIT"
