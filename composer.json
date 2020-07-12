@@ -1,0 +1,19 @@
+{
+    "name": "pangchenxu/number",
+    "description": "1.0",
+    "authors": [
+        {
+            "name": "alex",
+            "email": "alexxustudy@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "number\\": "src/"
+        }
+    },
+    "license": "MIT"
+}
